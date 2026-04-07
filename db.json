@@ -1,0 +1,16 @@
+{
+  "packages": [
+    {
+      "id": "1774348352067",
+      "name": "dubai",
+      "destination": "dessert",
+      "price": "25000",
+      "duration": "4",
+      "trip_type": "International",
+      "image": "blob:http://localhost:3333/cae74bbc-f77b-459a-a246-8be3c552284f",
+      "bookings": 0,
+      "trend": "New",
+      "rating": 5
+    }
+  ]
+}
